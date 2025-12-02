@@ -2,8 +2,10 @@
   "name": "testing-workshop-playwright",
   "packageManager": "yarn@1.22.22",
   "devDependencies": {
-    "@playwright/test": "^1.56.0",
+    "@playwright/test": "^1.57.0",
     "@types/node": "^24.7.2",
+    "allure-js-commons": "^3.4.2",
+    "allure-playwright": "^3.4.2",
     "playwright": "^1.56.0",
     "typescript": "^5.9.3"
   },
